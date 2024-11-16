@@ -6,6 +6,7 @@
 
 [![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidensands&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidensands&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=Python%2CPython%2C05f202%3BTensorflow%2CTensorflow%2Cf69709%3B)
 <!--
 **aidensands/aidensands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
